@@ -15,7 +15,10 @@ The data is uploaded into AWS S3.
 * EDA, Feature Engineering, and modeling are tested in local machine using Spark, and are then deployed to AWS-EMR. 
 
 ##Output
+![alt tag](https://github.com/qianmx/Loan-Default-Detection-Prediction/blob/master/gitplot/Screen%20Shot%202017-01-21%20at%2012.48.32%20AM.png)
+
 ![alt tag](https://github.com/qianmx/Loan-Default-Detection-Prediction/blob/master/gitplot/Screen%20Shot%202017-01-21%20at%2012.48.13%20AM.png)
+
 
 
 
