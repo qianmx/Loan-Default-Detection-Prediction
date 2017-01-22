@@ -1,6 +1,6 @@
 # Loan-Default-Prediction
 
-**Key Word: Spark, Distributed Computing, AWS(S3,EMR), Machine Learning**
+**Key Word: Spark(pyspark), Distributed Computing, AWS(S3,EMR), Machine Learning**
 
 ##Introduction
 This project aim to predict defaults of LeandingClub loans. 
