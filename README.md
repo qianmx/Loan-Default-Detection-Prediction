@@ -19,9 +19,9 @@ The data is uploaded into AWS S3.
 * Oversampling is used to deal with unbalanced data and improved model performance.
 * The inital model performace and final model performance are shown below. 
 
-![alt tag](https://github.com/qianmx/Loan-Default-Detection-Prediction/blob/master/gitplot/Screen%20Shot%202017-01-21%20at%2012.48.32%20AM.png)
+![alt tag](https://github.com/qianmx/Loan-Defaults-Prediction/blob/master/gitplot/output1.png)
 
-![alt tag](https://github.com/qianmx/Loan-Default-Detection-Prediction/blob/master/gitplot/Screen%20Shot%202017-01-21%20at%2012.48.13%20AM.png)
+![alt tag](https://github.com/qianmx/Loan-Defaults-Prediction/blob/master/gitplot/output2.png)
 
 
 
