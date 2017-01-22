@@ -1,4 +1,4 @@
-# Loan-Default-Prediction
+# Loan-Defaults-Prediction
 
 **Key Word: Spark(pyspark), Distributed Computing, AWS(S3,EMR), Machine Learning**
 
